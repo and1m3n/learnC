@@ -71,4 +71,3 @@ if( m == num){
 }
 
 Polindrom(num);
-
